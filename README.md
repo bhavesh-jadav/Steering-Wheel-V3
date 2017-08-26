@@ -1,3 +1,3 @@
 # Steering-Wheel-V3
 
-This project conatains Arduino Code fro PC Driving Simulation.
+This project contains Arduino Code fro PC Driving Simulation.
